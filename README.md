@@ -1,4 +1,3 @@
 # pubg-radar
 Pubg Radar Project 2022
-![图片加载失败](https://github.com/ysziyu/pubg-radar/raw/master/2022-05-19-1.jpg)
-![image](http://github.com/ysziyu/pubg-radar/raw/master/2022-05-19-1.jpg)
+![2022-05-19-1]([https://prj.j3v.cn/wp-content/uploads/2022/05/2022-05-19-1.jpg])
